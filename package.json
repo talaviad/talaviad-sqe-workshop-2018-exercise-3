@@ -21,6 +21,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "d3": "^5.7.0",
+        "d3-graphviz": "^2.6.0",
         "esprima": "^4.0.0",
         "jquery": "^3.3.1"
     },
